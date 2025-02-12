@@ -1,0 +1,7 @@
+Configuração da Conta local do GIT:
+    git config --global user.name lipeDaltoe
+    git config --global user.email felipedaltoe9@gmail.com
+
+npx create-expo-app@latest StickerSmash
+
+cd StickerSmash
