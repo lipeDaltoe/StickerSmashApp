@@ -21,3 +21,5 @@ Startar no android:
     npx expo start --localhost --android
 
 npx expo install expo-image
+
+vibestreet
