@@ -22,4 +22,6 @@ Startar no android:
 
 npx expo install expo-image
 
-vibestreet
+npm i vibestreet
+
+npm install dom-to-image
