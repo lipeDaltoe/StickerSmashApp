@@ -85,7 +85,7 @@ export default function Index() {
       setSelectedImage(result.assets[0].uri);
       setShowAppOptions(true);
     } else {
-      alert("Você não escolheu uma imagem!!!");
+      alert("Cadê a fotoh fi?");
     }
   }
 
@@ -126,7 +126,7 @@ export default function Index() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#25292e',
+    backgroundColor: 'black',
     alignItems: "center",
   },
   imageContainer: {
